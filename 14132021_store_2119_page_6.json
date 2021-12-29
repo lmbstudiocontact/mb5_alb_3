@@ -1,14 +1,40 @@
 [
   {
-    "title": "Halloween Ghost Witch_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51699478685_2317962e34_o.gif",
-    "id_album": "1746571233",
+    "title": "Anime Chibi_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51781030455_9508b417c5_o.gif",
+    "id_album": "-1298448213",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1298448213_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Seven deadly sins Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51780331376_943f9edd5c_n.jpg",
+    "id_album": "1802210937",
+    "total": 43,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1802210937_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Football_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51697669326_d35721f31b_o.gif",
+    "id_album": "-371026085",
     "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571233_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-371026085_index_0.json"
       }
     ]
   },
@@ -26,93 +52,71 @@
     ]
   },
   {
-    "title": "Football_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51698103989_6b1521131a_o.gif",
-    "id_album": "-371026087",
+    "title": "Halloween Ghost Witch_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51779399787_5347fee290_o.gif",
+    "id_album": "1746571233",
     "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-371026087_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571233_index_0.json"
       }
     ]
   },
   {
-    "title": "Anime Chibi_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51695335044_fc30e22d06_o.gif",
-    "id_album": "-1298448214",
-    "total": 12,
-    "size_max_detail_page": 1,
+    "title": "Game",
+    "link_thumb": "https://live.staticflickr.com/65535/51694973465_6a6a6af034_o.gif",
+    "id_album": "2211858",
+    "total": 100,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1298448214_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2211858_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2211858_index_1.json"
       }
     ]
   },
   {
-    "title": "Joker Harley Quinn_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51699430563_d6a4d07afd_o.gif",
-    "id_album": "-2022175633",
-    "total": 24,
+    "title": "Pooh_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51704142005_6d98244141_o.gif",
+    "id_album": "1269389010",
+    "total": 9,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175633_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1269389010_index_0.json"
       }
     ]
   },
   {
-    "title": "Fox_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51697021827_9208b13824_o.gif",
-    "id_album": "2110220026",
-    "total": 7,
+    "title": "Ratatouille Cartoon_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51779469942_8ea2dc1563_n.jpg",
+    "id_album": "1746345500",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2110220026_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746345500_index_0.json"
       }
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51695484964_39343098d1_o.gif",
-    "id_album": "197312539",
-    "total": 19,
+    "title": "Mickey Cartoon_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51780854049_8254228b38_o.gif",
+    "id_album": "1680949823",
+    "total": 22,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_197312539_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Shiv_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51704376804_d832515b29_o.gif",
-    "id_album": "-568595354",
-    "total": 32,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-568595354_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Football_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51698111535_6e86e472dd_o.gif",
-    "id_album": "-371026089",
-    "total": 49,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-371026089_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1680949823_index_0.json"
       }
     ]
   }
