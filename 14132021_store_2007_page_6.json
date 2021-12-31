@@ -1,59 +1,93 @@
 [
   {
-    "title": "Birds_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51695484344_63c540a08e_o.gif",
-    "id_album": "1119566096",
-    "total": 2,
+    "title": "Music_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51786446707_cde68e3849_o.gif",
+    "id_album": "908522977",
+    "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1119566096_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_908522977_index_0.json"
       }
     ]
   },
   {
-    "title": "Kung Fu Panda_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51780214176_03de6bf520_o.gif",
-    "id_album": "1222783552",
-    "total": 2,
+    "title": "Animal Art_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51788080800_46d75e1a69_o.gif",
+    "id_album": "97007464",
+    "total": 7,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1222783552_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_97007464_index_0.json"
       }
     ]
   },
   {
-    "title": "Totoro_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51703914326_85f1322afc_o.gif",
-    "id_album": "1833828887",
-    "total": 42,
-    "size_max_detail_page": 1,
+    "title": "Cute Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51788080850_4c944123d3_o.gif",
+    "id_album": "-629963489",
+    "total": 76,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1833828887_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963489_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963489_index_1.json"
       }
     ]
   },
   {
-    "title": "Donald Duck Cartoon_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51781078710_96f8534588_o.gif",
-    "id_album": "-1917621483",
-    "total": 4,
+    "title": "Death Note Anime_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51787821219_600b609ef0_o.gif",
+    "id_album": "-374116171",
+    "total": 8,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1917621483_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-374116171_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Dau Mam_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51786395327_e6d43af14c_o.gif",
+    "id_album": "-1324347432",
+    "total": 78,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347432_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347432_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Music_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787523983_9a192fc551_o.gif",
+    "id_album": "908522976",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_908522976_index_0.json"
       }
     ]
   },
   {
     "title": "Lion_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51699213617_fdec116ea2_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51788116155_16e414766f_o.gif",
     "id_album": "1842745421",
     "total": 3,
     "size_max_detail_page": 1,
@@ -65,58 +99,28 @@
     ]
   },
   {
-    "title": "Cute Art_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51780395768_f65d5065c5_o.gif",
-    "id_album": "-629963488",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963488_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963488_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Ratatouille Cartoon_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51780280996_7e119e8a63_n.jpg",
-    "id_album": "1746345503",
+    "title": "Miku",
+    "link_thumb": "https://live.staticflickr.com/65535/51787473073_3e40375182_o.gif",
+    "id_album": "2398246",
     "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746345503_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2398246_index_0.json"
       }
     ]
   },
   {
-    "title": "Fox_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51698717155_9b5a8841d8_o.gif",
-    "id_album": "2110220027",
-    "total": 7,
+    "title": "Raccoons_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51786471332_c433e26307_o.gif",
+    "id_album": "1998705264",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2110220027_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Ghibli Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51780821384_30de448035_o.gif",
-    "id_album": "-749595047",
-    "total": 17,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-749595047_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705264_index_0.json"
       }
     ]
   }
